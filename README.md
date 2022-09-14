@@ -22,7 +22,12 @@ Design marketing strategies aimed at converting casual riders into annual
 3. **Cyclistic executive team**
 ## Prepare
 ### Location of Data
-Public data used in this project can be found here
+Public data used in this project can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 ### Data Organisation
-### Credibility of the Data
+The data is stored in csv files that are updated on a monthly basis. For this research, twelve months (June 2021 - May 2022) of data was used. The datasets have 13 columns that contain each rides's information such as ride id, rider type, ride start-end date & time, station information, and bike type, among other things.
 ### Licensing, Privacy, Security and Accesibility
+The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
+## Process and Clean
+
+## Analyse
+## Share
