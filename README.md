@@ -29,5 +29,5 @@ The data is stored in csv files that are updated on a monthly basis. For this re
 The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 ## Process and Data Cleaning
 The data was cleaned using RStudio, the code can be found [here](https://github.com/joan-cyc/Google-Data-Analytics-Certificate-Case-Study/blob/main/Case%20Study%20R%20Code.Rmd).
-## Analyse and Data Vizsualation
+## Analyse and Data Visualisation
 The viz was created using Tableau, the dashboard can be seen [here](https://public.tableau.com/app/profile/joanc123/viz/GoogleDataAnalyticsCapstoneProjectCyclisticBikeShare/Dashboard1).
