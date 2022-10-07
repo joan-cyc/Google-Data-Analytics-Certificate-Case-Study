@@ -1,7 +1,7 @@
 ---
 title: "Google Data Analytics Course Capstone Project Case Study 1"
 author: "Joanna Chen"
-date: '2022-07-21'
+date: '2022-10-06'
 output: html_document
 ---
 
